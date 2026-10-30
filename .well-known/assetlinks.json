@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.littletide.dockferry",
+      "sha256_cert_fingerprints": [
+        "28:D3:F1:89:28:25:0F:C1:63:C1:7F:5F:01:B3:89:D5:2C:D2:9F:0A:AD:AA:BF:FD:1A:43:DE:FB:DD:D3:BB:D3",
+        "41:F1:C5:11:85:B0:5E:D4:96:75:79:25:A6:33:58:F7:95:C1:BC:EF:F8:B0:A8:64:80:87:0F:7F:FC:06:F5:C3"
+      ]
+    }
+  }
+]

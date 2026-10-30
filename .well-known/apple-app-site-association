@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7K63TL4D4Y.com.littletide.dockferry"],
+        "components": [{ "/": "/dock-ferry/open/*", "comment": "Dock Ferry in-app event and notification links" }]
+      }
+    ]
+  }
+}
